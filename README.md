@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=electron,angular,ts" />
+  <img src="https://skillicons.dev/icons?i=electron,angular,ts,cs,go" />
 </p>
 
 #
