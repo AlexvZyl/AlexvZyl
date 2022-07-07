@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <strong>Experience:</strong>
+  <strong>💻 Experience:</strong>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <strong>Learning:</strong>
+  <strong>🌱 Learning:</strong>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <strong>Interested:</strong>
+  <strong>🔭 Interested:</strong>
 </p>
 
 <p align="center">
