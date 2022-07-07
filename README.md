@@ -24,6 +24,10 @@ I am trying to write software that [prevents the collapse of civilization](https
   <img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pug" />
+</p>
+
 <!--
 **Alex-vZyl/Alex-vZyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
