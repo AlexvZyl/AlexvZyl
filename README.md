@@ -8,16 +8,6 @@
 
 #
 
-### Education 
-
-🎓 B.Eng Electrical & Electronic (Cum Laude).  
-
-🎓 M.Eng Electrical & Electronic.   
-
-📍 Both at [Stellenbosch University](http://www.sun.ac.za/english).
-
-#
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alex-vZyl&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-vZyl&theme=tokyonight&hide_border=true">
@@ -78,4 +68,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Education 
+
+🎓 B.Eng Electrical & Electronic (Cum Laude).  
+
+🎓 M.Eng Electrical & Electronic.   
+
+📍 Both at [Stellenbosch University](http://www.sun.ac.za/english).
+
+#
+
 -->
