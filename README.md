@@ -9,8 +9,6 @@ I am trying to write software that [prevents the collapse of civilization](https
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-vZyl&theme=tokyonight">
 </p>
 
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,julia,py,c,lua,java" />
 </p>
