@@ -2,10 +2,6 @@
 
 I am trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</p>
-
 ---
 
 <p align="center">
@@ -29,6 +25,10 @@ I am trying to write software that [prevents the collapse of civilization](https
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pug" />
 </p>
+
+#
+
+*"Never ever ever put in an accessor until it actually does something... This is, like, awful code.  This is absolutely horrific.  This is, like, you're fired."* - **Casey Muratori**
 
 <!--
 **Alex-vZyl/Alex-vZyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
