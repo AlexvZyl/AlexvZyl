@@ -6,6 +6,10 @@
 
 💭 Electrical & Electronic Engineer by education, Software Engineer by heart.
 
+🎓 B.Eng Electrical & Electronic (Cum Laude)
+
+🎓 M.Eng Electrical & Electronic
+
 ---
 
 <p align="center">
