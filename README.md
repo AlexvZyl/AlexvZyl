@@ -10,6 +10,7 @@ I am trying to write software that [prevents the collapse of civilization](https
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alex-vZyl&count_private=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-vZyl&theme=tokyonight">
 </p>
 
 <p align="center">
