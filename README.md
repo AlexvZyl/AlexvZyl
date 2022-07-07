@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/81622310/177779941-a3ac127f-8f1a-4857-ac29-e2fd5523377b.png" />
 </p>
 
-I am trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).
+**I am trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**
 
 ---
 
