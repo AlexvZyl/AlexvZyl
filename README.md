@@ -4,6 +4,8 @@
 
 **I am trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**
 
+Electrical & Electronic Engineer by education, Software Engineer by heart.
+
 ---
 
 <p align="center">
