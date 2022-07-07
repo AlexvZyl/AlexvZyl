@@ -13,17 +13,12 @@ I am trying to write software that [prevents the collapse of civilization](https
   <img src="https://skillicons.dev/icons?i=cpp,julia,py,c,lua,java" />
 </p>
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,latex,cmake,md,qt" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pug" />
 </p>
 
 #
