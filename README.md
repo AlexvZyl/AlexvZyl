@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/81622310/177796909-b8c25eef-0e14-4e6d-bafd-7a9a6f0ca851.png" />
 </p>
 
-💬 **Trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**
+💬 **Trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**  Fast computers lead to lazy programmers.
 
 💭 Electrical & Electronic Engineer by education, Software Engineer by heart.
 
