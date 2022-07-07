@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am trying to write software that [prevents the collapse of civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko&t=3216s).
+
 <!--
 **Alex-vZyl/Alex-vZyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
