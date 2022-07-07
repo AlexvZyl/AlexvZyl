@@ -6,13 +6,17 @@
 
 💭 Electrical & Electronic Engineer by education, Software Engineer by heart.
 
-## Education 📍 [Stellenbosch University](http://www.sun.ac.za/english)
+#
 
-🎓 B.Eng Electrical & Electronic (Cum Laude)  
+### Education 
 
-🎓 M.Eng Electrical & Electronic   
+🎓 B.Eng Electrical & Electronic (Cum Laude).  
 
----
+🎓 M.Eng Electrical & Electronic.   
+
+📍 Both at [Stellenbosch University](http://www.sun.ac.za/english).
+
+#
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alex-vZyl&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
@@ -20,15 +24,35 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,julia,py,c,lua,java,rust" />
+  <strong>Experience:</strong>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,latex,cmake,md,qt,tauri,react" />
+  <img src="https://skillicons.dev/icons?i=cpp,julia,py,c,java,lua" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,neovim,autocad" />
+  <img src="https://skillicons.dev/icons?i=git,latex,cmake,md,qt" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,autocad" />
+</p>
+
+<p align="center">
+  <strong>Learning:</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,tauri,react,neovim,js" />
+</p>
+
+<p align="center">
+  <strong>Interested:</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=electron,angular,ts" />
 </p>
 
 #
