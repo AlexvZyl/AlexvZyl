@@ -1,6 +1,6 @@
 ### Hi there 👋 You can call me Alex.
 
-I am trying to write software that [prevents the collapse of civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko&t=3216s).
+I am trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).
 
 ---
 
