@@ -14,11 +14,11 @@ I am trying to write software that [prevents the collapse of civilization](https
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,latex,cmake,md,qt" />
+  <img src="https://skillicons.dev/icons?i=git,latex,cmake,md,qt,tauri,react" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,neovim" />
 </p>
 
 #
