@@ -10,7 +10,7 @@ I am trying to write software that [prevents the collapse of civilization](https
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,julia,py,c,lua,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,julia,py,c,lua,java,rust" />
 </p>
 
 <p align="center">
