@@ -6,9 +6,11 @@
 
 💭 Electrical & Electronic Engineer by education, Software Engineer by heart.
 
-🎓 B.Eng Electrical & Electronic (Cum Laude)  📍 [Stellenbosch University](http://www.sun.ac.za/english)
+## Education 📍 [Stellenbosch University](http://www.sun.ac.za/english)
 
-🎓 M.Eng Electrical & Electronic        📍 [Stellenbosch University](http://www.sun.ac.za/english)
+🎓 B.Eng Electrical & Electronic (Cum Laude)  
+
+🎓 M.Eng Electrical & Electronic   
 
 ---
 
