@@ -2,13 +2,13 @@
   <img src="https://user-images.githubusercontent.com/81622310/177796909-b8c25eef-0e14-4e6d-bafd-7a9a6f0ca851.png" />
 </p>
 
-💬 **Trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**
+💬 **Trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**
 
-💭 Electrical & Electronic Engineer by education, Software Engineer by heart.
+💭 Electrical & Electronic Engineer by education, Software Engineer by heart.
 
-🎓 B.Eng Electrical & Electronic (Cum Laude)
+🎓 B.Eng Electrical & Electronic (Cum Laude)  📍 [Stellenbosch University](http://www.sun.ac.za/english)
 
-🎓 M.Eng Electrical & Electronic
+🎓 M.Eng Electrical & Electronic        📍 [Stellenbosch University](http://www.sun.ac.za/english)
 
 ---
 
