@@ -1,4 +1,6 @@
-### Hi there 👋 You can call me Alex.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81622310/177779432-6bce8502-4b47-41d2-b5af-4b6c5d703dbb.png" />
+</p>
 
 I am trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).
 
