@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,neovim" />
+  <img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,neovim,autocad" />
 </p>
 
 #
