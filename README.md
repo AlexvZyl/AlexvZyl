@@ -30,7 +30,7 @@ I am trying to write software that [prevents the collapse of civilization](https
 
 *"Never ever ever put in an accessor until it actually does something... This is, like, awful code.  This is absolutely horrific.  This is, like, you're fired."* - **Casey Muratori**
 
-*"That’s the way that we're trending is, everybody’s on Slack all day and very few people are doing real work."* - **Jonathan Blow**
+*"That’s the way that we're trending, everybody’s on Slack all day and very few people are doing real work."* - **Jonathan Blow**
 
 <!--
 **Alex-vZyl/Alex-vZyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
