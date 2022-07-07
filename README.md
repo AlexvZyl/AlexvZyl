@@ -9,8 +9,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-vZyl&count_private=true&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-vZyl&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-vZyl&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-vZyl&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
