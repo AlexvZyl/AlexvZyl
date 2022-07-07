@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81622310/177779941-a3ac127f-8f1a-4857-ac29-e2fd5523377b.png" />
+  <img src="https://user-images.githubusercontent.com/81622310/177796909-b8c25eef-0e14-4e6d-bafd-7a9a6f0ca851.png" />
 </p>
 
-💬 **I am trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**
+💬 **Trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**
 
 💭 Electrical & Electronic Engineer by education, Software Engineer by heart.
 
