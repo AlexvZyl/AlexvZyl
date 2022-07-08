@@ -50,14 +50,6 @@
   <img src="https://skillicons.dev/icons?i=electron,angular,ts,cs,go" />
 </p>
 
-#
-
-*"Never ever ever put in an accessor until it actually does something... This is, like, awful code.  This is absolutely horrific.  This is, like, you're fired."* - **Casey Muratori**
-
-*"That’s the way that we're trending, everybody’s on Slack all day and very few people are doing real work."* - **Jonathan Blow**
-
-#
-
 <p align="center">
   <strong>🚀 Deployed with:</strong>
 </p>
@@ -65,6 +57,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
+
+#
+
+*"Never ever ever put in an accessor until it actually does something... This is, like, awful code.  This is absolutely horrific.  This is, like, you're fired."* - **Casey Muratori**
+
+*"That’s the way that we're trending, everybody’s on Slack all day and very few people are doing real work."* - **Jonathan Blow**
 
 <!--
 **Alex-vZyl/Alex-vZyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
