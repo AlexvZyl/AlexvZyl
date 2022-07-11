@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux,vscode,visualstudio,autocad" />
+  <img src="https://skillicons.dev/icons?i=neovim,github,linux,vscode,visualstudio,autocad" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,tauri,react,neovim,js" />
+  <img src="https://skillicons.dev/icons?i=rust,tauri,react,js" />
 </p>
 
 <p align="center">
