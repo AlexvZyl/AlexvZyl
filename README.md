@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,latex,cmake,qt,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=git,latex,cmake,qt,arduino,raspberrypi,cloudflare" />
 </p>
 
 <p align="center">
