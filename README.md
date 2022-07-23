@@ -15,18 +15,6 @@
 </p>
 
 <p align="center">
-  <strong>💻 Languages:</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,julia,py,c,java,lua,md" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GLSL-FFFFFF?style=for-the-badge&logo=opengl" />
-</p>
-
-<p align="center">
   <strong>⚡ Technologies & Frameworks:</strong>
 </p>
 
