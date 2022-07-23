@@ -15,14 +15,6 @@
 </p>
 
 <p align="center">
-  <strong>🪴 Favourite Editors:</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,vscode" />
-</p>
-
-<p align="center">
   <strong>💻 Favourite Languages:</strong>
 </p>
 
@@ -30,6 +22,13 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,rust" />
 </p>
 
+<p align="center">
+  <strong>🪴 Favourite Editors:</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=neovim,vscode" />
+</p>
 #
 
 *"Never ever ever put in an accessor until it actually does something... This is, like, awful code.  This is absolutely horrific.  This is, like, you're fired."* - **Casey Muratori**
