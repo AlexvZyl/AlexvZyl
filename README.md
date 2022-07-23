@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust" />
 </p>
 
 <p align="center">
