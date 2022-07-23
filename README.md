@@ -15,39 +15,19 @@
 </p>
 
 <p align="center">
-  <strong>⚡ Technologies & Frameworks:</strong>
+  <strong>🪴 Favourite Editors:</strong>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,latex,cmake,qt,arduino,raspberrypi,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=neovim,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" />
+  <strong>💻 Favourite Languages:</strong>
 </p>
 
 <p align="center">
-  <strong>🪴 Environments:</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,github,linux,vscode,visualstudio,autocad" />
-</p>
-
-<p align="center">
-  <strong>🌱 Learning:</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,tauri,react,js" />
-</p>
-
-<p align="center">
-  <strong>🔭 Interested:</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=electron,angular,ts,cs,go" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust" />
 </p>
 
 #
