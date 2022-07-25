@@ -8,6 +8,8 @@
 
 💭 Electrical & Electronic Engineer by education, Software Engineer by heart.
 
+📡 Currently busy with my Master's in radar engineering and machine learning.
+
 <p align="center">
   <strong>💻 Favourite Languages:</strong>
 </p>
