@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust,julia" />
 </p>
 
 <p align="center">
