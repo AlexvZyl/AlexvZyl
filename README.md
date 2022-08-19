@@ -36,6 +36,8 @@
 
 #
 
-*"Never ever ever put in an accessor until it actually does something... This is, like, awful code.  This is absolutely horrific.  This is, like, you're fired."* - **Casey Muratori**
+[comment]: <> (*"Never ever ever put in an accessor until it actually does something... This is, like, awful code.  This is absolutely horrific.  This is, like, you're fired."* - **Casey Muratori**)
+
+*"You can't know everything, but you should convince yourself that you can know anything."* - **John Carmack**
 
 *"That’s the way that we're trending, everybody’s on Slack all day and very few people are doing real work."* - **Jonathan Blow**
