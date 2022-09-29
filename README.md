@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats-lake-gamma.vercel.app/api?username=Alex-vZyl&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-vZyl&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=Alex-vZyl&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl">
+  <img src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=Alex-vZyl&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=10&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl">
 </p>
 
 #
