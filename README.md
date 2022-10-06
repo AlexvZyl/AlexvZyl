@@ -10,6 +10,8 @@
 
 📡 Currently busy with my Master's in radar engineering and machine learning.
 
+📗 I really like [Neovim](https://github.com/Alex-vZyl/.dotfiles/tree/main/.config/nvim).
+
 <p align="center">
   <strong>💻 Favourite Languages:</strong>
 </p>
