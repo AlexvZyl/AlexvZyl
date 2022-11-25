@@ -10,7 +10,7 @@
 
 📡 Currently busy with my Master's in radar engineering and machine learning.
 
-📗 I really like [Neovim](https://github.com/Alex-vZyl/.dotfiles/tree/main/.config/nvim).
+📗 I really like [Neovim](https://github.com/AlexvZyl/.dotfiles/tree/main/.config/nvim).
 
 <p align="center">
   <strong>💻 Favourite Languages:</strong>
@@ -31,9 +31,9 @@
 # Some Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-lake-gamma.vercel.app/api?username=Alex-vZyl&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-vZyl&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=Alex-vZyl&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl">
+  <img src="https://github-readme-stats-lake-gamma.vercel.app/api?username=AlexvZyl&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexvZyl&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=AlexvZyl&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl">
 </p>
 
 #
