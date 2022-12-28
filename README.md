@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/81622310/177796909-b8c25eef-0e14-4e6d-bafd-7a9a6f0ca851.png" />
-</p>
+[comment]: <> ( <p align="center"> <img src="https://user-images.githubusercontent.com/81622310/177796909-b8c25eef-0e14-4e6d-bafd-7a9a6f0ca851.png" /> </p> )
 
 # About Me
 
