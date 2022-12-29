@@ -26,6 +26,11 @@
   <img src="https://skillicons.dev/icons?i=neovim,vscode" />
 </p>
 
+# Interests
+
+- **The Linux Kernel:**  The work done here is obviously exceptional - I would love to contribute one day.
+- **Game Engines:**  I have written a graphics engine from scratch and the technology is fascinating (and complex!).  Hopefully I can work on something like this again.
+
 # Some Statistics
 
 <p align="center">
