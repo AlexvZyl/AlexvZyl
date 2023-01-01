@@ -35,7 +35,7 @@
 
 - **The Linux Kernel:**  The work done here is obviously exceptional - I would love to contribute one day.
 - **Game Engines:**  I have written a graphics engine from scratch and the technology is fascinating (and complex!).  Hopefully I can work on something like this again.  *The engine repo is currently private due to legal reasons, I hope to make it public soon.*
-- **Radars:**  Obviously, I did my Master's thesis in this topic!  *The repo is currently private, will make it public after my thesis has been published.*.
+- **Radars:**  Obviously, I did my Master's thesis in this topic!  *The repo is currently private, will make it public after my thesis has been published.*
 
 &nbsp;
 
