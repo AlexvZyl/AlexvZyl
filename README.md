@@ -49,6 +49,19 @@
   <img src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=AlexvZyl&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl">
 </p>
   
+&nbsp;
+  
+</details>
+
+<details>
+<summary>🚀 OS Contributions</summary>
+  
+&nbsp;
+
+- Feat: Add padding to elements [#276](https://github.com/glepnir/dashboard-nvim/pull/276).
+  
+&nbsp;
+  
 </details>
 
 #
