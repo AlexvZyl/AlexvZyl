@@ -58,7 +58,7 @@
   
 &nbsp;
 
-- **dashboard.nvim:** Add padding to elements [#276](https://github.com/glepnir/dashboard-nvim/pull/276).
+- **[glepnir/dashboard.nvim](https://github.com/glepnir/dashboard-nvim):** Add padding to elements [#276](https://github.com/glepnir/dashboard-nvim/pull/276).
   
 &nbsp;
   
