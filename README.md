@@ -54,11 +54,11 @@
 </details>
 
 <details>
-<summary>🚀 OS Contributions</summary>
+<summary>🚀 Interesting Contributions</summary>
   
 &nbsp;
 
-- Feat: Add padding to elements [#276](https://github.com/glepnir/dashboard-nvim/pull/276).
+- **dashboard.nvim:** Add padding to elements [#276](https://github.com/glepnir/dashboard-nvim/pull/276).
   
 &nbsp;
   
