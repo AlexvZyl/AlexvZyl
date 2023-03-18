@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,julia,lua,neovim,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,julia,lua,c,rust,neovim,github,linux" />
 </p>
 
 &nbsp;
