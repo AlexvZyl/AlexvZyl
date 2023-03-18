@@ -1,12 +1,5 @@
 [comment]: <> ( <p align="center"> <img src="https://user-images.githubusercontent.com/81622310/177796909-b8c25eef-0e14-4e6d-bafd-7a9a6f0ca851.png" /> </p> )
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,julia,lua,c,rust,github,git,linux,neovim" />
-</p>
-
-&nbsp;
-
 - **Trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**  Fast computers lead to lazy programmers.
 - Electrical & Electronic Engineer by education, Software Engineer by heart.
 - Currently busy with my Master's in radar engineering and machine learning.
@@ -14,26 +7,11 @@
 
 &nbsp;
 
-<!--
 <p align="center">
-  <strong>💻 Favourite Languages:</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,julia,lua" />
-</p>
-
-<p align="center">
-  <strong>🪴 Favourite Editors:</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,julia,lua,c,rust,github,git,linux,neovim" />
 </p>
 
 &nbsp;
-
--->
 
 <details>
 <summary> 🔭 Interests</summary>
