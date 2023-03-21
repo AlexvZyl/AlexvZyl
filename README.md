@@ -1,4 +1,10 @@
-[comment]: <> ( <p align="center"> <img src="https://user-images.githubusercontent.com/81622310/177796909-b8c25eef-0e14-4e6d-bafd-7a9a6f0ca851.png" /> </p> )
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,julia,lua,c,rust,github,git,linux,neovim" />
+</p>
+
+#
+
+&nbsp;
 
 - **Trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**  Fast computers lead to lazy programmers.
 - Electrical & Electronic Engineer by education, Software Engineer by heart.
@@ -7,9 +13,7 @@
 
 &nbsp;
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,julia,lua,c,rust,github,git,linux,neovim" />
-</p>
+#
 
 &nbsp;
 
@@ -37,9 +41,9 @@
   <img src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=AlexvZyl&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl">
 </p>
   
-&nbsp;
-  
 </details>
+
+&nbsp;
 
 <!--
 <details>
@@ -56,8 +60,6 @@
 -->
 
 #
-
-[comment]: <> (*"Never ever ever put in an accessor until it actually does something... This is, like, awful code.  This is absolutely horrific.  This is, like, you're fired."* - **Casey Muratori**)
 
 *"You can't know everything, but you should convince yourself that you can know anything."* - **John Carmack**
 
