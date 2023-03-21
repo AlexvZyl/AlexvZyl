@@ -2,8 +2,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,julia,lua,c,rust,github,git,linux,neovim" />
 </p>
 
-#
-
 &nbsp;
 
 - **Trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).**  Fast computers lead to lazy programmers.
