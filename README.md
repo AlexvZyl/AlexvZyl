@@ -13,10 +13,6 @@
 
 &nbsp;
 
-#
-
-&nbsp;
-
 <details>
 <summary> 🔭 Interests</summary>
 
