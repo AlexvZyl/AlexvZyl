@@ -37,22 +37,6 @@
   
 </details>
 
-&nbsp;
-
-<!--
-<details>
-<summary>🚀 Interesting Contributions</summary>
-  
-&nbsp;
-
-- **[glepnir/dashboard.nvim](https://github.com/glepnir/dashboard-nvim):** Add padding to elements [#276](https://github.com/glepnir/dashboard-nvim/pull/276).
-- **[rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui):** Add DapUINormal [#226](https://github.com/rcarriga/nvim-dap-ui/pull/226#event-8455872496).
-  
-&nbsp;
-  
-</details>
--->
-
 #
 
 *"You can't know everything, but you should convince yourself that you can know anything."* - **John Carmack**
