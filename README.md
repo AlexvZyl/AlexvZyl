@@ -8,6 +8,7 @@
 - Electrical & Electronic Engineer by education, Software Engineer by heart.
 - Currently busy with my Master's in radar engineering and machine learning.
 - I really like [Neovim](https://github.com/AlexvZyl/.dotfiles/tree/main/.config/nvim).
+- Save TF2.
 
 &nbsp;
 
