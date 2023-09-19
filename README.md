@@ -8,6 +8,7 @@
 - Electrical & Electronic Engineer by education, Software Engineer by heart.
 - Recently completed my Master's in radar engineering and machine learning.
 - Currently working as a Software and MLOps/DevOps engineer.
+- Most likely the only married Arch Linux user.
 
 &nbsp;
 
