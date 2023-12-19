@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,cpp,lua,neovim,latex,julia,bash,github,markdown,linux,git,rust" />
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,cpp,lua,neovim,latex,julia,bash,github,markdown,linux,git,rust" />
 </p>
 
 &nbsp;
