@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,typescript,cpp,lua,python,javascript,linux,aws,bash,github,neovim,latex,julia,terraform,git,rust,haskell" />
+  <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,typescript,cpp,lua,python,javascript,linux,aws,bash,github,neovim,latex,julia,terraform,git,rust,pytorch,haskell" />
 </p>
 
 &nbsp;
