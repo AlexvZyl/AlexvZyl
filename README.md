@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,typescript,cpp,lua,python,javascript,linux,aws,bash,github,neovim,latex,julia,terraform,git,rust,pytorch,haskell" />
+  <img src="https://skillicons.dev/icons?i=go,docker,cpp,lua,linux,aws,github,bash,neovim,julia,terraform,git,rust" />
 </p>
 
 &nbsp;
 
+- Things I really enjoy ⬆️.
 - Trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).  Fast computers lead to lazy programmers.
 - Electrical & Electronic Engineer by education, Software Engineer by heart.
 - Recently completed my Master's in radar engineering and machine learning.
