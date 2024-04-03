@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,docker,cpp,nix,arch,lua,terraform,aws,github,bash,neovim,julia,pytorch,git,rust" />
+  <img src="https://skillicons.dev/icons?i=go,docker,cpp,arch,nix,lua,terraform,aws,github,bash,neovim,julia,pytorch,git,rust" />
 </p>
 
 &nbsp;
@@ -9,7 +9,7 @@
 - Electrical & Electronic Engineer by education, Software Engineer by heart.
 - Recently completed my Master's in radar engineering and machine learning.
 - Currently working as a Software and ML/MLOps engineer.
-- (*Was*) 💍 Most likely the only [married](https://github.com/Wifeagen) Arch Linux user.  Now a NixOS enjoyer.
+- 💍 (*Was*) Most likely the only [married](https://github.com/Wifeagen) Arch Linux user.  Now a NixOS enjoyer.
 
 &nbsp;
 
