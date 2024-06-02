@@ -8,7 +8,6 @@
 - Trying to write software that [prevents the collapse of civilization](https://youtu.be/ZSRHeXYDLko).  Fast computers lead to lazy programmers.
 - Electrical & Electronic Engineer by education, Software Engineer by heart.
 - Currently working as a Lead Software Engineer at [TSN Systems](https://tsn.systems/).
-- 💍 (*Was*) Most likely the only [married](https://github.com/Wifeagen) Arch Linux user.  Now a NixOS enjoyer.
 
 &nbsp;
 
@@ -17,6 +16,7 @@
 
 &nbsp;
 
+- 💍 (*Was*) Most likely the only [married](https://github.com/Wifeagen) Arch Linux user.  Now a NixOS enjoyer.
 - I have a Master's degree in radar engineering and machine learning.
 - I have written haskell that is running in production for ABSA bank.
 
