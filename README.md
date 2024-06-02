@@ -18,7 +18,7 @@
 &nbsp;
 
 - I have a Master's degree in radar engineering and machine learning.
-- I have written production haskell.
+- I have written haskell that is running in production for ABSA bank.
 
 &nbsp;
 
