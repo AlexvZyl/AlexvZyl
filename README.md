@@ -12,6 +12,18 @@
 &nbsp;
 
 <details>
+<summary> 📜 Publications</summary>
+
+&nbsp;
+
+- [Optimised multi-parameter NLFM pulse compression waveform for low time-bandwidth radar.](https://dsp.sun.ac.za/~trn/reports/vanzyl+wiehahn+cilliers+niesler_ietradar22.pdf)
+- [A software defined radio based radar system with applications in the detection of wildlife poaching.](https://scholar.sun.ac.za/items/3ef9e2e5-e83b-4802-bdec-8adece76eaff)
+
+&nbsp;
+
+</details>
+
+<details>
 <summary> 💡 Random Facts</summary>
 
 &nbsp;
