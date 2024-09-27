@@ -50,5 +50,6 @@
 #
 
 *"You can't know everything, but you should convince yourself that you can know anything."* - **John Carmack**
-
+<!--
 *"That’s the way that we're trending, everybody’s on Slack all day and very few people are doing real work."* - **Jonathan Blow**
+-->
