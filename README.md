@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,docker,cpp,arch,nix,lua,terraform,aws,github,bash,neovim,julia,pytorch,git,rust" />
+  <img src="https://skillicons.dev/icons?i=go,docker,cpp,arch,nix,lua,terraform,linux,github,bash,neovim,pytorch,git,rust" />
 </p>
 
 <p align="center">
