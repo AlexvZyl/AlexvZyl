@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,docker,cpp,arch,nix,lua,terraform,linux,github,bash,neovim,pytorch,git,rust" />
+  <img src="https://skillicons.dev/icons?i=go,docker,cpp,arch,nix,lua,terraform,python,linux,github,bash,neovim,pytorch,git,rust"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,julia" />
 </p>
 
 <p align="center">
